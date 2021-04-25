@@ -9,5 +9,5 @@ Suggestion algorithm for online betting, built on item-item collaborative filter
 - Install Jupyter Lab with Conda prompt: https://jupyter.org/install
 - Run 'jupyter lab' command from Conda prompt.
 
-# Working with Data
+## Working with Data
 Put your datafiles in the 'Data' folder locally, all contents of this folder are ignored on pushes
