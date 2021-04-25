@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Data Folder
+# exclude everything
+Data/*
+
+# exception to the rule
+!Data/.gitkeep 
